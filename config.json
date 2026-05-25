@@ -1,0 +1,8 @@
+{
+    "name": "dbmodel-service",
+    "version": "1.0.975",
+    "private": false,
+    "environment": "production",
+    "build_id": 716,
+    "allow_public_access": true
+}
